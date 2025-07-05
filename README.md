@@ -17,8 +17,9 @@
 
 ---
 
-## ☁️ Cloud Computing
+☁️ Cisco
 
-### [AWS Cloud Quest – Cloud Practitioner (Credly)](https://www.credly.com/badges/682aa3cf-f517-4a91-b958-123a99f1bfbe)
+[Cisco Networking Academy – IT Essentials](https://www.credly.com/badges/SEU-LINK-AQUI)
+![Cisco IT Essentials Badge](https://i.postimg.cc/cCLsfkDY/cisco-it-essentials-badge.png)
 
 
