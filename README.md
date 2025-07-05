@@ -1,29 +1,38 @@
----
+# 🎓 Gibran Certifications
 
-## ✅ Certifications
-
-📄 A list of formal certifications I’ve earned in QA, cybersecurity, logistics, and programming:
----
-![TripleTen QA](https://img.shields.io/badge/QA_Engineer_TripleTen-20232A?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/Cybersecurity-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LaSalle College](https://img.shields.io/badge/LaSalle_College-CA-FF1F1F?style=for-the-badge)
-![Estácio](https://img.shields.io/badge/Estácio_Logistics-Brazil-blue?style=for-the-badge)
-
----
-| Certification Name                                      | Provider             | Status       | Year | Link / Credential                                  |
-|---------------------------------------------------------|----------------------|--------------|------|----------------------------------------------------|
-| QA Engineer Bootcamp (Web, API, Mobile, Automation)     | TripleTen (Canada)   | ✅ Completed | 2025 | [View Certificate](https://tripleten.com)          |
-| Cybersecurity Professional Certificate                   | Google/Coursera      | ✅ Completed | 2024 | [See Details](https://www.coursera.org/professional-certificates/google-cybersecurity) |
-| Programming Analyst – Systems Development               | LaSalle College, CA  | ✅ Completed | 2022 | —                                                  |
-| International Trade (Commerce International)            | LaSalle College, CA  | ✅ Completed | 2020 | —                                                  |
-| Logistics & Supply Chain Management                     | Estácio de Sá, BR    | ✅ Completed | 2018 | —                                                  |
+A curated portfolio of official certifications earned in Quality Assurance, Cybersecurity, and Cloud Computing.
 
 ---
 
-### 📌 Highlights
+## 🧪 Quality Assurance
 
-- 🧪 **Hands-on QA Certification** with real-world projects: Pytest, Selenium, Postman
-- 🔐 **Cybersecurity program** covering Linux, SIEM, IDS, SQL, and Python for security
-- 🌍 **International education background** in Canada and Brazil
-- 💡 Practical + academic foundations in **technology, law enforcement and logistics**
+### ✅ [TripleTen QA Engineer Bootcamp](https://postimg.cc/t1bSB3Qn)
 
+![TripleTen QA Certificate](./certificates/tripleten_qa_certificate.png)
+
+Issued: **June 25, 2025**  
+Certificate ID: **#000547**
+
+---
+
+## 🔐 Cybersecurity (Google / Coursera)
+
+- [Google Cybersecurity Certificate](https://coursera.org/share/73973086a7b5a7f5f009edaf738bd6ca)  
+- [Play It Safe: Manage Security Risks](https://coursera.org/share/76784d74c9f1713aff92d259ba5c3040)  
+- [Foundations of Cybersecurity](https://coursera.org/share/5da7c19e0d3359167248888ff3a17c5a)
+
+![Google Cybersecurity Badge](./certificates/google_cybersecurity_certificate.png)
+
+---
+
+## ☁️ Cloud Computing
+
+### [AWS Cloud Quest – Cloud Practitioner (Credly)](https://www.credly.com/badges/682aa3cf-f517-4a91-b958-123a99f1bfbe)
+
+![AWS Badge](./certificates/aws_cloud_quest_credly.png)
+
+---
+
+## 🔗 Links & Validation
+
+Every badge or certificate listed here is 100% verifiable via the links provided (Coursera, Credly, TripleTen).
