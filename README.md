@@ -8,10 +8,14 @@ A curated portfolio of official certifications earned in **Quality Assurance**, 
 
 ### ✅ [TripleTen QA Engineer Bootcamp](https://postimg.cc/t1bSB3Qn)
 
-![TripleTen QA Certificate](https://i.postimg.cc/SKfkkxfk/QA_Certificate_TripleTen.png)
+![TripleTen QA Certificate](https://i.postimg.cc/SKfkkxfk/QA-Certificate-TripleTen.png)
 
 - **Issued:** June 25, 2025  
-- **Certificate ID:** #000547
+- **Certificate ID:** #000547  
+- 📄 [View Official PDF](certificates/T_Gibran_QA.pdf)
+
+---
+
 
 ---
 
