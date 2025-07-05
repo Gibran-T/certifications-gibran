@@ -21,7 +21,8 @@ Certificate ID: **#000547**
 - [Play It Safe: Manage Security Risks](https://coursera.org/share/76784d74c9f1713aff92d259ba5c3040)  
 - [Foundations of Cybersecurity](https://coursera.org/share/5da7c19e0d3359167248888ff3a17c5a)
 
-![Google Cybersecurity Badge](./certificates/google_cybersecurity_badge.png)
+[![Google Cybersecurity Badge](./certificates/google_cybersecurity_badge.png)](https://i.ibb.co/YcMZ9zK/google-cybersecurity-badge.png
+)
 
 ---
 
@@ -29,7 +30,8 @@ Certificate ID: **#000547**
 
 ### [AWS Cloud Quest – Cloud Practitioner (Credly)](https://www.credly.com/badges/682aa3cf-f517-4a91-b958-123a99f1bfbe)
 
-![AWS Cloud Quest Badge](./certificates/aws_cloud_quest_badge.png)
+[![AWS Cloud Quest Badge](./certificates/aws_cloud_quest_badge.png)](https://i.ibb.co/vc0Sy3r/aws-cloud-quest-badge.png
+)
 
 ---
 
