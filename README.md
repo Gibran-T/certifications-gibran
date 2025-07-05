@@ -18,8 +18,8 @@
 ---
 
 ☁️ Cisco
-
-[Cisco Networking Academy – IT Essentials](https://www.credly.com/badges/SEU-LINK-AQUI)
-![Cisco IT Essentials Badge](https://i.postimg.cc/cCLsfkDY/cisco-it-essentials-badge.png)
+(Credly)  
+[Credly Badge](https://www.credly.com/badges/SEU-CERTIFICADO-ID)  
+![Cisco IT Network Quest Badge](https://i.postimg.cc/26TzXqxg/aws-cloud-quest-badge.png)
 
 
