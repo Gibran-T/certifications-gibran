@@ -3,13 +3,13 @@
 ## ✅ Certifications
 
 📄 A list of formal certifications I’ve earned in QA, cybersecurity, logistics, and programming:
-
+---
 ![TripleTen QA](https://img.shields.io/badge/QA_Engineer_TripleTen-20232A?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Google Cybersecurity](https://img.shields.io/badge/Cybersecurity-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LaSalle College](https://img.shields.io/badge/LaSalle_College-CA-FF1F1F?style=for-the-badge)
 ![Estácio](https://img.shields.io/badge/Estácio_Logistics-Brazil-blue?style=for-the-badge)
 
-
+---
 | Certification Name                                      | Provider             | Status       | Year | Link / Credential                                  |
 |---------------------------------------------------------|----------------------|--------------|------|----------------------------------------------------|
 | QA Engineer Bootcamp (Web, API, Mobile, Automation)     | TripleTen (Canada)   | ✅ Completed | 2025 | [View Certificate](https://tripleten.com)          |
