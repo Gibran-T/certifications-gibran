@@ -22,4 +22,4 @@
 
 ### [CISCO – Cloud Practitioner (Credly)](https://www.credly.com/badges/682aa3cf-f517-4a91-b958-123a99f1bfbe)
 
-![CISCO Cloud Quest Badge](https://i.ibb.co/vc0Sy3r/aws-cloud-quest-badge.png)
+
