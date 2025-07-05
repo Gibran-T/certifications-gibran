@@ -20,6 +20,6 @@
 ☁️ Cisco
 # ☁️ Cloud Computing
 
-### [CISCO – Cloud Practitioner (Credly)](https://www.credly.com/badges/682aa3cf-f517-4a91-b958-123a99f1bfbe)
+### [CISCO – IT (Credly)](https://www.credly.com/badges/682aa3cf-f517-4a91-b958-123a99f1bfbe)
 
 
