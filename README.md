@@ -1,9 +1,3 @@
-# 🎓 Gibran Certifications
-
-A curated portfolio of official certifications earned in **Quality Assurance**, **Cybersecurity**, and **Cloud Computing**.
-
----
-
 ## 🧪 Quality Assurance
 
 ### ✅ [TripleTen QA Engineer Bootcamp](https://postimg.cc/t1bSB3Qn)
@@ -13,9 +7,6 @@ A curated portfolio of official certifications earned in **Quality Assurance**, 
 - **Issued:** June 25, 2025  
 - **Certificate ID:** #000547  
 - 📄 [View Official PDF](certificates/T_Gibran_QA.pdf)
-
----
-
 
 ---
 
@@ -34,41 +25,3 @@ A curated portfolio of official certifications earned in **Quality Assurance**, 
 ### [AWS Cloud Quest – Cloud Practitioner (Credly)](https://www.credly.com/badges/682aa3cf-f517-4a91-b958-123a99f1bfbe)
 
 ![AWS Cloud Quest Badge](https://i.ibb.co/vc0Sy3r/aws-cloud-quest-badge.png)
-
----
-
-## 🔗 Links & Validation
-
-Every badge or certificate listed here is **100% verifiable** through the official platforms:  
-🔗 [Coursera](https://coursera.org) | [Credly](https://www.credly.com) | [TripleTen](https://tripleten.com)
-
----
-
-## 🧬 Extended Description
-
-This repository brings together my official certifications and credentials across key areas of modern technology: **Quality Assurance, Cybersecurity, Cloud Computing, and Software Development**.
-
-As a trilingual professional with over 16 years of cross-continental experience in logistics, ERP systems, QA engineering and education, I use certifications as a way to:
-
-- ✅ Validate my evolving skill set  
-- 🧪 Maintain high standards in testing, security, and system integration  
-- 🚀 Build credibility in global job markets (Canada, USA, Brazil)
-
-Each certificate here reflects not only theoretical knowledge, but **hands-on experience** in building, testing, and scaling real-world systems — from automated testing frameworks to digital products used in production.
-
----
-
-## 🎯 Core Objectives
-
-- 📚 Stay aligned with current QA and DevSecOps practices  
-- 🔐 Strengthen foundations in risk mitigation and cybersecurity  
-- ☁️ Expand cloud fluency (AWS, containers, pipelines)  
-- 💡 Combine QA excellence with business strategy  
-
----
-
-## 🌍 Context
-
-All listed certifications were completed in **English**, through **international platforms** like **Coursera, Credly, and TripleTen (Canada)** — ensuring that they meet the standards of global companies and real enterprise demands.
-
-> _"These certifications are not the end — they're milestones in a lifelong journey of building systems that are robust, secure, and human-centered."_
